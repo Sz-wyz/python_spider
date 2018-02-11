@@ -33,3 +33,4 @@ for i in range(10):
     movie_info(text)
 end_time = time.time()
 print('总共用时：', end_time - start_time, '秒')
+ 
